@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3f7a4c"/><stop offset="1" stop-color="#16301f"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="url(#g)"/>
+<polygon points="150,420 210,640 90,640" fill="#0f2217" fill-opacity=".55"/><polygon points="330,380 390,600 270,600" fill="#0f2217" fill-opacity=".55"/><polygon points="520,450 580,670 460,670" fill="#0f2217" fill-opacity=".55"/><polygon points="1200,400 1260,620 1140,620" fill="#0f2217" fill-opacity=".55"/><polygon points="1400,360 1460,580 1340,580" fill="#0f2217" fill-opacity=".55"/><polygon points="1520,440 1580,660 1460,660" fill="#0f2217" fill-opacity=".55"/>
+<g fill="none" stroke="#c4a05a" stroke-opacity=".5" stroke-width="2"><rect x="30" y="30" width="1540" height="940"/></g>
+<text x="800.0" y="940" text-anchor="middle" font-family="Georgia,serif" font-size="28" letter-spacing="6" fill="#e9dfc8" fill-opacity=".8">JARDIM — IMAGEM ILUSTRATIVA</text>
+</svg>
